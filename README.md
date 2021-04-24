@@ -1,8 +1,8 @@
 # A basic client/server chat program
 
 ## TODO
-- [] Phase one server
-- [] Phase one client
+- [ ] Phase one server
+- [ ] Phase one client
 
 ## Phases
 1. A simple server that will accept a single client connection and display everything the client says on the screen. If the client user types ".bye", the client and the server will both quit.
