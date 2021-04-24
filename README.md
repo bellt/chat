@@ -2,7 +2,12 @@
 
 ## TODO
 - [ ] Phase one server
+  - [ ] Print a single line
+  - [ ] Accept an input, and print that
+  - [ ] Accept an input from a file
 - [ ] Phase one client
+  - [ ] Write to the file that the server is looking at
+- [ ] Expand so that the server is some kind of http server that the client connects to
 
 ## Phases
 1. A simple server that will accept a single client connection and display everything the client says on the screen. If the client user types ".bye", the client and the server will both quit.
