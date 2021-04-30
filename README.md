@@ -2,9 +2,9 @@
 
 ## TODO
 - [ ] Phase one server
-  - [ ] Print a single line
-  - [ ] Accept an input, and print that
-  - [ ] Accept an input from a file
+  - [x] Print a single line
+  - [x] Accept an input, and print that
+  - [x] Accept an input from a file
 - [ ] Phase one client
   - [ ] Write to the file that the server is looking at
 - [ ] Expand so that the server is some kind of REST server that the client connects to
